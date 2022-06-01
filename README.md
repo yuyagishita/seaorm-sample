@@ -1,1 +1,1 @@
-# sqlx-sample
+# seaorm-sample
